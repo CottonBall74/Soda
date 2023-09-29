@@ -5,3 +5,6 @@
 	path = Soda/submodules/glfw
 	url = https://github.com/CottonBall74/glfw
 	branch = latest
+[submodule "Soda/submodules/imgui"]
+	path = Soda/submodules/imgui
+	url = https://github.com/CottonBall74/imgui
